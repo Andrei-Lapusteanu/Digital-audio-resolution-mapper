@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Audio Bitrate Mapper", "Audio Bitrate Mapper\Audio Bitrate Mapper.csproj", "{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Autocorrelation", "Autocorrelation\Autocorrelation.vcxproj", "{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Debug|x64.Build.0 = Debug|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Debug|x86.Build.0 = Debug|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Release|x64.ActiveCfg = Release|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Release|x64.Build.0 = Release|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Release|x86.ActiveCfg = Release|Any CPU
+		{91126F1F-0905-4AD7-9BBA-84AD0AEC55F8}.Release|x86.Build.0 = Release|Any CPU
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Debug|x64.ActiveCfg = Debug|x64
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Debug|x64.Build.0 = Debug|x64
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Debug|x86.Build.0 = Debug|Win32
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Release|Any CPU.ActiveCfg = Release|Win32
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Release|x64.ActiveCfg = Release|x64
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Release|x64.Build.0 = Release|x64
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Release|x86.ActiveCfg = Release|Win32
+		{F6AD0B3E-6CE7-406D-A487-14834B7FDA0E}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425EC63A-F37B-4253-A892-31A33FBEEA5C}
+	EndGlobalSection
+EndGlobal
