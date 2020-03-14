@@ -8,12 +8,12 @@
 *App UI*
 
 # Technologies
-- Core program written in **C#**
+- Core application written in **C#**
 - Autocorrelation function implemented in **C++**
 - UI designed in **WPF**
 
 # Functionalities
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMjczMDcwNSwxMjAwNDkwMTY2XX0=
+eyJoaXN0b3J5IjpbMTMxNTUwNTU0MSwxMjAwNDkwMTY2XX0=
 -->
