@@ -13,10 +13,9 @@
 - UI designed in **WPF**
 
 # Functionalities
-- Maps audio samples exported from Audacity from 32-bit ti either 8 or 10-bits
-- Software exists because of a project that required such data to be uploaded to an Arduino Uno board
-- Autocorrelation fuc
+- Maps audio samples exported from Audacity from 32-bit to either 8 or 10-bits
+- Software exists because of a project that required such data to be uploaded to an Arduino Uno board in order to test its processing capabilities
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDEyNDIyMTczLDEzMTU1MDU1NDEsMTIwMD
-Q5MDE2Nl19
+eyJoaXN0b3J5IjpbLTE1NzUwMzE5MDAsMTMxNTUwNTU0MSwxMj
+AwNDkwMTY2XX0=
 -->
