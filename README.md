@@ -17,8 +17,9 @@
 - Software exists because of a project that required such data to be uploaded to an Arduino Uno board in order to test its processing capabilities
 
 ## Note
-- It can currenly only process m
+- It can currenly only process mono audio files samples
+- Auto number of samples feature will be implemented in the future
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY5OTk3MTg5MiwtMTY3Njc4NTg3MCwtMT
-U3NTAzMTkwMCwxMzE1NTA1NTQxLDEyMDA0OTAxNjZdfQ==
+eyJoaXN0b3J5IjpbLTExNjk3OTk0NjMsLTE2NzY3ODU4NzAsLT
+E1NzUwMzE5MDAsMTMxNTUwNTU0MSwxMjAwNDkwMTY2XX0=
 -->
